@@ -5,7 +5,7 @@ A simple example of a project using TdLib on android (Java).
 With this project you can see how to send messages to any public chat (bot or any telegram account).
 
 Successful use requires:
-1) Fill blank lines with parameters at the top of the screen (api id, api hashm, phone number, public chat. How to get api_id and api_hash: https://core.telegram.org/api/obtaining_api_id)
+1) Fill blank lines with parameters at the top of the screen (api id, api hash, phone number, public chat. How to get api_id and api_hash: https://core.telegram.org/api/obtaining_api_id)
 2) Click on the button "Create client"
 3) Click on the button "Set tdlib parameters"
 4) Click on the button "Check database encryprion key"
