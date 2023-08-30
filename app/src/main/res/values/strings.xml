@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TdapiAndroidJavaExample</string>
+    <string name="raw_api_hash">api_hash</string>
+    <string name="raw_api_id">api_id</string>
+    <string name="raw_public_chat_name">public_chat_name</string>
+    <string name="raw_phone_number">phone_number</string>
+    <string name="nice_api_hash">Api Hash</string>
+    <string name="nice_api_id">Api Id</string>
+    <string name="nice_public_chat_name">Public Chat Name</string>
+    <string name="nice_phone_number">Phone Number</string>
+    <string name="raw_chat_id">chat_id</string>
+    <string name="empty">Empty</string>
+    <string name="shared_preferences_name">main_shared_preferences</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_padding_left">20dp</dimen>
+    <dimen name="alert_padding_top">25dp</dimen>
+    <dimen name="alert_padding_right">15dp</dimen>
+    <dimen name="alert_padding_bottom">5dp</dimen>
+</resources>
